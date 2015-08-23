@@ -1,0 +1,1 @@
+10.times{|n| File.write("./files/test/test_#{n+10}.txt","Test text number #{n+10}")}

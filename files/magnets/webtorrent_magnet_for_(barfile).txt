@@ -1,0 +1,1 @@
+magnet:?xt=urn:btih:42da53c391c0c7d20df88fd825ba7a53bd26d2d5&dn=barfile.txt&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.webtorrent.io%3A80&tr=wss%3A%2F%2Ftracker.webtorrent.io
