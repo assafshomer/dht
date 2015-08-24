@@ -1,15 +1,9 @@
-// seed.js 
-// "node seed.js filename content"
+// seed-hybrid.js 
+// "node seed-hybrid.js filename content"
 var fs = require('fs');
 var path = require('path');
-var Webtorrent = require('webtorrent');
-
-opts = {
-  dht: true,
-  announce[]
-}
-
-var client = new Webtorrent(opts);
+var Webtorrent = require('webtorrent-hybrid');
+var client = new Webtorrent();
 var torrentedFileName = process.argv[2] || 'TestTorrent'
 var torrentedFileContent = process.argv[3] || 'TestTorrent Content\n'
 var filePath = 'files/test/'+torrentedFileName+'.txt'
