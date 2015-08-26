@@ -6,7 +6,7 @@ var Webtorrent = require('webtorrent');
 
 opts = {
   dht: true,
-  announce[]
+  // announce[]
 }
 
 var client = new Webtorrent(opts);
