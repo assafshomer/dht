@@ -3,7 +3,7 @@ var DHT    = require('bittorrent-dht')
 var magnet = require('magnet-uri')
 
 // var uri = 'magnet:?xt=urn:btih:e3811b9539cacff680e418124272177c47477157'
-var uri = 'magnet:?xt=urn:btih:d643d4f78373b3187a1860b2e1bb7f64978254a0&dn=obi-wan%5F20.png'
+var uri = 'magnet:?xt=urn:btih:ef13d224f8f1b4afb7dc51862782b7e0b5c21af9&dn=WT8.txt'
 var parsed = magnet(uri)
 
 console.log(parsed.infoHash) // 'e3811b9539cacff680e418124272177c47477157'
