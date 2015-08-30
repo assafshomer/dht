@@ -1,0 +1,18 @@
+[magnet:?xt=urn:btih:524ca2b7d295f1af1f76dfe73dd861a822f08b1f&dn=WebTorrent6.txt&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.webtorrent.io%3A80&tr=wss%3A%2F%2Ftracker.webtorrent.io]
+{ xt: 'urn:btih:524ca2b7d295f1af1f76dfe73dd861a822f08b1f',
+  dn: 'WebTorrent6.txt',
+  tr: 
+   [ 'udp://open.demonii.com:1337',
+     'udp://tracker.openbittorrent.com:80',
+     'udp://tracker.publicbt.com:80',
+     'udp://tracker.webtorrent.io:80',
+     'wss://tracker.webtorrent.io' ],
+  infoHash: '524ca2b7d295f1af1f76dfe73dd861a822f08b1f',
+  name: 'WebTorrent6.txt',
+  announce: 
+   [ 'udp://open.demonii.com:1337',
+     'udp://tracker.openbittorrent.com:80',
+     'udp://tracker.publicbt.com:80',
+     'udp://tracker.webtorrent.io:80',
+     'wss://tracker.webtorrent.io' ],
+  urlList: [] }
