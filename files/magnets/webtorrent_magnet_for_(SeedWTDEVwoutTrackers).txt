@@ -1,1 +1,0 @@
-magnet:?xt=urn:btih:3ae967a02d171060f147c0c3bd7ab48208d18829&dn=SeedWTDEVwoutTrackers.txt&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.webtorrent.io%3A80&tr=wss%3A%2F%2Ftracker.webtorrent.io
